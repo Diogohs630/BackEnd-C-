@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\bin\Debug\net6.0\Desafio Esfera DIO Csharp.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\bin\Debug\net6.0\Desafio Esfera DIO Csharp.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\bin\Debug\net6.0\Desafio Esfera DIO Csharp.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\bin\Debug\net6.0\Desafio Esfera DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\bin\Debug\net6.0\Desafio Esfera DIO Csharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\obj\Debug\net6.0\Desafio Esfera DIO Csharp.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\obj\Debug\net6.0\Desafio Esfera DIO Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\obj\Debug\net6.0\Desafio Esfera DIO Csharp.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\obj\Debug\net6.0\Desafio Esfera DIO Csharp.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\obj\Debug\net6.0\Desafio Esfera DIO Csharp.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\obj\Debug\net6.0\Desafio Esfera DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\obj\Debug\net6.0\refint\Desafio Esfera DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\obj\Debug\net6.0\Desafio Esfera DIO Csharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\obj\Debug\net6.0\Desafio Esfera DIO Csharp.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Esfera DIO Csharp\Desafio Esfera DIO Csharp\obj\Debug\net6.0\ref\Desafio Esfera DIO Csharp.dll

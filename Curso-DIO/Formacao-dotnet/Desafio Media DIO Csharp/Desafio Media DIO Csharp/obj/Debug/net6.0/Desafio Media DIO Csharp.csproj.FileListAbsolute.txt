@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\bin\Debug\net6.0\Desafio Media DIO Csharp.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\bin\Debug\net6.0\Desafio Media DIO Csharp.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\bin\Debug\net6.0\Desafio Media DIO Csharp.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\bin\Debug\net6.0\Desafio Media DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\bin\Debug\net6.0\Desafio Media DIO Csharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\obj\Debug\net6.0\Desafio Media DIO Csharp.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\obj\Debug\net6.0\Desafio Media DIO Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\obj\Debug\net6.0\Desafio Media DIO Csharp.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\obj\Debug\net6.0\Desafio Media DIO Csharp.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\obj\Debug\net6.0\Desafio Media DIO Csharp.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\obj\Debug\net6.0\Desafio Media DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\obj\Debug\net6.0\refint\Desafio Media DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\obj\Debug\net6.0\Desafio Media DIO Csharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\obj\Debug\net6.0\Desafio Media DIO Csharp.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Media DIO Csharp\Desafio Media DIO Csharp\obj\Debug\net6.0\ref\Desafio Media DIO Csharp.dll

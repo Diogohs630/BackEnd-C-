@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\bin\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\bin\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\bin\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\bin\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\bin\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\obj\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\obj\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\obj\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\obj\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\obj\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\obj\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\obj\Debug\net6.0\refint\Desafio Conversao de tempo Dio Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\obj\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\obj\Debug\net6.0\Desafio Conversao de tempo Dio Csharp.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Conversao de tempo Dio Csharp\Desafio Conversao de tempo Dio Csharp\obj\Debug\net6.0\ref\Desafio Conversao de tempo Dio Csharp.dll

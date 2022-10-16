@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\bin\Debug\net6.0\Desafio Tempo do doby DIO Csharp.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\bin\Debug\net6.0\Desafio Tempo do doby DIO Csharp.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\bin\Debug\net6.0\Desafio Tempo do doby DIO Csharp.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\bin\Debug\net6.0\Desafio Tempo do doby DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\bin\Debug\net6.0\Desafio Tempo do doby DIO Csharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\obj\Debug\net6.0\Desafio Tempo do doby DIO Csharp.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\obj\Debug\net6.0\Desafio Tempo do doby DIO Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\obj\Debug\net6.0\Desafio Tempo do doby DIO Csharp.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\obj\Debug\net6.0\Desafio Tempo do doby DIO Csharp.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\obj\Debug\net6.0\Desafio Tempo do doby DIO Csharp.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\obj\Debug\net6.0\Desafio Tempo do doby DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\obj\Debug\net6.0\refint\Desafio Tempo do doby DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\obj\Debug\net6.0\Desafio Tempo do doby DIO Csharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\obj\Debug\net6.0\Desafio Tempo do doby DIO Csharp.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Tempo do doby DIO Csharp\Desafio Tempo do doby DIO Csharp\obj\Debug\net6.0\ref\Desafio Tempo do doby DIO Csharp.dll

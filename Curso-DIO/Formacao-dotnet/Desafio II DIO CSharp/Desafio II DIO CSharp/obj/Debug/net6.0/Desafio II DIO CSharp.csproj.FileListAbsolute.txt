@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\bin\Debug\net6.0\Desafio II DIO CSharp.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\bin\Debug\net6.0\Desafio II DIO CSharp.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\bin\Debug\net6.0\Desafio II DIO CSharp.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\bin\Debug\net6.0\Desafio II DIO CSharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\bin\Debug\net6.0\Desafio II DIO CSharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\obj\Debug\net6.0\Desafio II DIO CSharp.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\obj\Debug\net6.0\Desafio II DIO CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\obj\Debug\net6.0\Desafio II DIO CSharp.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\obj\Debug\net6.0\Desafio II DIO CSharp.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\obj\Debug\net6.0\Desafio II DIO CSharp.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\obj\Debug\net6.0\Desafio II DIO CSharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\obj\Debug\net6.0\refint\Desafio II DIO CSharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\obj\Debug\net6.0\Desafio II DIO CSharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\obj\Debug\net6.0\Desafio II DIO CSharp.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio II DIO CSharp\Desafio II DIO CSharp\obj\Debug\net6.0\ref\Desafio II DIO CSharp.dll

@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\bin\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\bin\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\bin\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\bin\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\bin\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\obj\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\obj\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\obj\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\obj\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\obj\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\obj\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\obj\Debug\net6.0\refint\Desafio Pink e Cerebro DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\obj\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\obj\Debug\net6.0\Desafio Pink e Cerebro DIO Csharp.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Pink e Cerebro DIO Csharp\Desafio Pink e Cerebro DIO Csharp\obj\Debug\net6.0\ref\Desafio Pink e Cerebro DIO Csharp.dll

@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\obj\Debug\net6.0\Desafio Idade em dias DIO Csharp.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\obj\Debug\net6.0\Desafio Idade em dias DIO Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\obj\Debug\net6.0\Desafio Idade em dias DIO Csharp.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\obj\Debug\net6.0\Desafio Idade em dias DIO Csharp.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\obj\Debug\net6.0\Desafio Idade em dias DIO Csharp.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\bin\Debug\net6.0\Desafio Idade em dias DIO Csharp.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\bin\Debug\net6.0\Desafio Idade em dias DIO Csharp.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\bin\Debug\net6.0\Desafio Idade em dias DIO Csharp.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\bin\Debug\net6.0\Desafio Idade em dias DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\bin\Debug\net6.0\Desafio Idade em dias DIO Csharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\obj\Debug\net6.0\Desafio Idade em dias DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\obj\Debug\net6.0\refint\Desafio Idade em dias DIO Csharp.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\obj\Debug\net6.0\Desafio Idade em dias DIO Csharp.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\obj\Debug\net6.0\Desafio Idade em dias DIO Csharp.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Desafio Idade em dias DIO Csharp\Desafio Idade em dias DIO Csharp\obj\Debug\net6.0\ref\Desafio Idade em dias DIO Csharp.dll
