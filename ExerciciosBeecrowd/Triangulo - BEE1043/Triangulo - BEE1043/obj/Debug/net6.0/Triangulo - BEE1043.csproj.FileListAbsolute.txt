@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\obj\Debug\net6.0\Triangulo - BEE1043.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\obj\Debug\net6.0\Triangulo - BEE1043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\obj\Debug\net6.0\Triangulo - BEE1043.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\obj\Debug\net6.0\Triangulo - BEE1043.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\obj\Debug\net6.0\Triangulo - BEE1043.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\bin\Debug\net6.0\Triangulo - BEE1043.exe
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\bin\Debug\net6.0\Triangulo - BEE1043.deps.json
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\bin\Debug\net6.0\Triangulo - BEE1043.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\bin\Debug\net6.0\Triangulo - BEE1043.dll
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\bin\Debug\net6.0\Triangulo - BEE1043.pdb
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\obj\Debug\net6.0\Triangulo - BEE1043.dll
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\obj\Debug\net6.0\refint\Triangulo - BEE1043.dll
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\obj\Debug\net6.0\Triangulo - BEE1043.pdb
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\obj\Debug\net6.0\Triangulo - BEE1043.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Triangulo - BEE1043\Triangulo - BEE1043\obj\Debug\net6.0\ref\Triangulo - BEE1043.dll

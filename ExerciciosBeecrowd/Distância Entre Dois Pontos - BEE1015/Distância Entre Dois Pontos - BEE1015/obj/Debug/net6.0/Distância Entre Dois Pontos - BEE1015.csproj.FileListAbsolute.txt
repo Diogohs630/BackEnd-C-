@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\bin\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.exe
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\bin\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.deps.json
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\bin\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.runtimeconfig.json
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\bin\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.dll
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\bin\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.pdb
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\obj\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\obj\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\obj\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\obj\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\obj\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\obj\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.dll
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\obj\Debug\net6.0\refint\Distância Entre Dois Pontos - BEE1015.dll
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\obj\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.pdb
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\obj\Debug\net6.0\Distância Entre Dois Pontos - BEE1015.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Distância Entre Dois Pontos - BEE1015\Distância Entre Dois Pontos - BEE1015\obj\Debug\net6.0\ref\Distância Entre Dois Pontos - BEE1015.dll

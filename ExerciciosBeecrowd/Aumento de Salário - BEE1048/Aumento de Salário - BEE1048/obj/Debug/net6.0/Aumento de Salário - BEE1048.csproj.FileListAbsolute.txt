@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\obj\Debug\net6.0\Aumento de Salário - BEE1048.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\obj\Debug\net6.0\Aumento de Salário - BEE1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\obj\Debug\net6.0\Aumento de Salário - BEE1048.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\obj\Debug\net6.0\Aumento de Salário - BEE1048.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\obj\Debug\net6.0\Aumento de Salário - BEE1048.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\bin\Debug\net6.0\Aumento de Salário - BEE1048.exe
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\bin\Debug\net6.0\Aumento de Salário - BEE1048.deps.json
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\bin\Debug\net6.0\Aumento de Salário - BEE1048.runtimeconfig.json
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\bin\Debug\net6.0\Aumento de Salário - BEE1048.dll
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\bin\Debug\net6.0\Aumento de Salário - BEE1048.pdb
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\obj\Debug\net6.0\Aumento de Salário - BEE1048.dll
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\obj\Debug\net6.0\refint\Aumento de Salário - BEE1048.dll
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\obj\Debug\net6.0\Aumento de Salário - BEE1048.pdb
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\obj\Debug\net6.0\Aumento de Salário - BEE1048.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Aumento de Salário - BEE1048\Aumento de Salário - BEE1048\obj\Debug\net6.0\ref\Aumento de Salário - BEE1048.dll

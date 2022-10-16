@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\obj\Debug\net6.0\Dividindo X por Y - BEE1116.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\obj\Debug\net6.0\Dividindo X por Y - BEE1116.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\obj\Debug\net6.0\Dividindo X por Y - BEE1116.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\obj\Debug\net6.0\Dividindo X por Y - BEE1116.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\obj\Debug\net6.0\Dividindo X por Y - BEE1116.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\bin\Debug\net6.0\Dividindo X por Y - BEE1116.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\bin\Debug\net6.0\Dividindo X por Y - BEE1116.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\bin\Debug\net6.0\Dividindo X por Y - BEE1116.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\bin\Debug\net6.0\Dividindo X por Y - BEE1116.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\bin\Debug\net6.0\Dividindo X por Y - BEE1116.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\obj\Debug\net6.0\Dividindo X por Y - BEE1116.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\obj\Debug\net6.0\refint\Dividindo X por Y - BEE1116.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\obj\Debug\net6.0\Dividindo X por Y - BEE1116.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\obj\Debug\net6.0\Dividindo X por Y - BEE1116.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Dividindo X por Y - BEE1116\Dividindo X por Y - BEE1116\obj\Debug\net6.0\ref\Dividindo X por Y - BEE1116.dll

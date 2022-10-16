@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\bin\Debug\net6.0\Medias Ponderadas - 1079.exe
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\bin\Debug\net6.0\Medias Ponderadas - 1079.deps.json
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\bin\Debug\net6.0\Medias Ponderadas - 1079.runtimeconfig.json
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\bin\Debug\net6.0\Medias Ponderadas - 1079.dll
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\bin\Debug\net6.0\Medias Ponderadas - 1079.pdb
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\obj\Debug\net6.0\Medias Ponderadas - 1079.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\obj\Debug\net6.0\Medias Ponderadas - 1079.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\obj\Debug\net6.0\Medias Ponderadas - 1079.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\obj\Debug\net6.0\Medias Ponderadas - 1079.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\obj\Debug\net6.0\Medias Ponderadas - 1079.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\obj\Debug\net6.0\Medias Ponderadas - 1079.dll
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\obj\Debug\net6.0\refint\Medias Ponderadas - 1079.dll
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\obj\Debug\net6.0\Medias Ponderadas - 1079.pdb
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\obj\Debug\net6.0\Medias Ponderadas - 1079.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Medias Ponderadas - 1079\Medias Ponderadas - 1079\obj\Debug\net6.0\ref\Medias Ponderadas - 1079.dll

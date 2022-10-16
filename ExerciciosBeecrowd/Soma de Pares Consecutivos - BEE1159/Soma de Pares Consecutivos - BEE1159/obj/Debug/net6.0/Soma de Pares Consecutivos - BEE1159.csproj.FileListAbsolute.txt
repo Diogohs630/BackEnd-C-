@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\bin\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.exe
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\bin\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.deps.json
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\bin\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.runtimeconfig.json
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\bin\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.dll
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\bin\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.pdb
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\obj\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\obj\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\obj\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\obj\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\obj\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\obj\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.dll
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\obj\Debug\net6.0\refint\Soma de Pares Consecutivos - BEE1159.dll
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\obj\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.pdb
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\obj\Debug\net6.0\Soma de Pares Consecutivos - BEE1159.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Soma de Pares Consecutivos - BEE1159\Soma de Pares Consecutivos - BEE1159\obj\Debug\net6.0\ref\Soma de Pares Consecutivos - BEE1159.dll

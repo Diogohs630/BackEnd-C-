@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\bin\Debug\net6.0\Notas e Moedas - BEE1021.exe
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\bin\Debug\net6.0\Notas e Moedas - BEE1021.deps.json
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\bin\Debug\net6.0\Notas e Moedas - BEE1021.runtimeconfig.json
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\bin\Debug\net6.0\Notas e Moedas - BEE1021.dll
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\bin\Debug\net6.0\Notas e Moedas - BEE1021.pdb
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\obj\Debug\net6.0\Notas e Moedas - BEE1021.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\obj\Debug\net6.0\Notas e Moedas - BEE1021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\obj\Debug\net6.0\Notas e Moedas - BEE1021.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\obj\Debug\net6.0\Notas e Moedas - BEE1021.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\obj\Debug\net6.0\Notas e Moedas - BEE1021.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\obj\Debug\net6.0\Notas e Moedas - BEE1021.dll
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\obj\Debug\net6.0\refint\Notas e Moedas - BEE1021.dll
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\obj\Debug\net6.0\Notas e Moedas - BEE1021.pdb
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\obj\Debug\net6.0\Notas e Moedas - BEE1021.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Notas e Moedas - BEE1021\Notas e Moedas - BEE1021\obj\Debug\net6.0\ref\Notas e Moedas - BEE1021.dll

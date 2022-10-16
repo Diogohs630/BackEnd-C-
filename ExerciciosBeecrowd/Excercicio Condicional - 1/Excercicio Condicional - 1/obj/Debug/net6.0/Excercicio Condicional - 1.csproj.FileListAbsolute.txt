@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\obj\Debug\net6.0\Excercicio Condicional - 1.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\obj\Debug\net6.0\Excercicio Condicional - 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\obj\Debug\net6.0\Excercicio Condicional - 1.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\obj\Debug\net6.0\Excercicio Condicional - 1.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\obj\Debug\net6.0\Excercicio Condicional - 1.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\bin\Debug\net6.0\Excercicio Condicional - 1.exe
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\bin\Debug\net6.0\Excercicio Condicional - 1.deps.json
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\bin\Debug\net6.0\Excercicio Condicional - 1.runtimeconfig.json
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\bin\Debug\net6.0\Excercicio Condicional - 1.dll
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\bin\Debug\net6.0\Excercicio Condicional - 1.pdb
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\obj\Debug\net6.0\Excercicio Condicional - 1.dll
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\obj\Debug\net6.0\refint\Excercicio Condicional - 1.dll
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\obj\Debug\net6.0\Excercicio Condicional - 1.pdb
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\obj\Debug\net6.0\Excercicio Condicional - 1.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Excercicio Condicional - 1\Excercicio Condicional - 1\obj\Debug\net6.0\ref\Excercicio Condicional - 1.dll

@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\bin\Debug\net6.0\Senha - BEE2146.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\bin\Debug\net6.0\Senha - BEE2146.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\bin\Debug\net6.0\Senha - BEE2146.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\bin\Debug\net6.0\Senha - BEE2146.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\bin\Debug\net6.0\Senha - BEE2146.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\obj\Debug\net6.0\Senha - BEE2146.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\obj\Debug\net6.0\Senha - BEE2146.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\obj\Debug\net6.0\Senha - BEE2146.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\obj\Debug\net6.0\Senha - BEE2146.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\obj\Debug\net6.0\Senha - BEE2146.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\obj\Debug\net6.0\Senha - BEE2146.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\obj\Debug\net6.0\refint\Senha - BEE2146.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\obj\Debug\net6.0\Senha - BEE2146.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\obj\Debug\net6.0\Senha - BEE2146.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Senha - BEE2146\Senha - BEE2146\obj\Debug\net6.0\ref\Senha - BEE2146.dll

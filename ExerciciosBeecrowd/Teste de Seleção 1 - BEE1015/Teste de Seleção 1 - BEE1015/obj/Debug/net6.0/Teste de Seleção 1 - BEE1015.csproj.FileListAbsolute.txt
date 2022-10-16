@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\obj\Debug\net6.0\Teste de Seleção 1 - BEE1015.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\obj\Debug\net6.0\Teste de Seleção 1 - BEE1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\obj\Debug\net6.0\Teste de Seleção 1 - BEE1015.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\obj\Debug\net6.0\Teste de Seleção 1 - BEE1015.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\obj\Debug\net6.0\Teste de Seleção 1 - BEE1015.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\bin\Debug\net6.0\Teste de Seleção 1 - BEE1015.exe
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\bin\Debug\net6.0\Teste de Seleção 1 - BEE1015.deps.json
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\bin\Debug\net6.0\Teste de Seleção 1 - BEE1015.runtimeconfig.json
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\bin\Debug\net6.0\Teste de Seleção 1 - BEE1015.dll
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\bin\Debug\net6.0\Teste de Seleção 1 - BEE1015.pdb
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\obj\Debug\net6.0\Teste de Seleção 1 - BEE1015.dll
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\obj\Debug\net6.0\refint\Teste de Seleção 1 - BEE1015.dll
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\obj\Debug\net6.0\Teste de Seleção 1 - BEE1015.pdb
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\obj\Debug\net6.0\Teste de Seleção 1 - BEE1015.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Teste de Seleção 1 - BEE1015\Teste de Seleção 1 - BEE1015\obj\Debug\net6.0\ref\Teste de Seleção 1 - BEE1015.dll

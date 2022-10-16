@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\bin\Debug\net6.0\Quadrante - BEE1115.exe
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\bin\Debug\net6.0\Quadrante - BEE1115.deps.json
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\bin\Debug\net6.0\Quadrante - BEE1115.runtimeconfig.json
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\bin\Debug\net6.0\Quadrante - BEE1115.dll
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\bin\Debug\net6.0\Quadrante - BEE1115.pdb
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\obj\Debug\net6.0\Quadrante - BEE1115.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\obj\Debug\net6.0\Quadrante - BEE1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\obj\Debug\net6.0\Quadrante - BEE1115.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\obj\Debug\net6.0\Quadrante - BEE1115.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\obj\Debug\net6.0\Quadrante - BEE1115.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\obj\Debug\net6.0\Quadrante - BEE1115.dll
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\obj\Debug\net6.0\refint\Quadrante - BEE1115.dll
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\obj\Debug\net6.0\Quadrante - BEE1115.pdb
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\obj\Debug\net6.0\Quadrante - BEE1115.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Quadrante - BEE1115\Quadrante - BEE1115\obj\Debug\net6.0\ref\Quadrante - BEE1115.dll

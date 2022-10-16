@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\bin\Debug\net6.0\Produto Simples - BEE1004.exe
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\bin\Debug\net6.0\Produto Simples - BEE1004.deps.json
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\bin\Debug\net6.0\Produto Simples - BEE1004.runtimeconfig.json
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\bin\Debug\net6.0\Produto Simples - BEE1004.dll
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\bin\Debug\net6.0\Produto Simples - BEE1004.pdb
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\obj\Debug\net6.0\Produto Simples - BEE1004.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\obj\Debug\net6.0\Produto Simples - BEE1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\obj\Debug\net6.0\Produto Simples - BEE1004.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\obj\Debug\net6.0\Produto Simples - BEE1004.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\obj\Debug\net6.0\Produto Simples - BEE1004.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\obj\Debug\net6.0\Produto Simples - BEE1004.dll
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\obj\Debug\net6.0\refint\Produto Simples - BEE1004.dll
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\obj\Debug\net6.0\Produto Simples - BEE1004.pdb
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\obj\Debug\net6.0\Produto Simples - BEE1004.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Produto Simples - BEE1004\Produto Simples - BEE1004\obj\Debug\net6.0\ref\Produto Simples - BEE1004.dll

@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\bin\Debug\net6.0\Numeros Impares - BEE1067.exe
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\bin\Debug\net6.0\Numeros Impares - BEE1067.deps.json
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\bin\Debug\net6.0\Numeros Impares - BEE1067.runtimeconfig.json
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\bin\Debug\net6.0\Numeros Impares - BEE1067.dll
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\bin\Debug\net6.0\Numeros Impares - BEE1067.pdb
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\obj\Debug\net6.0\Numeros Impares - BEE1067.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\obj\Debug\net6.0\Numeros Impares - BEE1067.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\obj\Debug\net6.0\Numeros Impares - BEE1067.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\obj\Debug\net6.0\Numeros Impares - BEE1067.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\obj\Debug\net6.0\Numeros Impares - BEE1067.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\obj\Debug\net6.0\Numeros Impares - BEE1067.dll
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\obj\Debug\net6.0\refint\Numeros Impares - BEE1067.dll
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\obj\Debug\net6.0\Numeros Impares - BEE1067.pdb
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\obj\Debug\net6.0\Numeros Impares - BEE1067.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Numeros Impares - BEE1067\Numeros Impares - BEE1067\obj\Debug\net6.0\ref\Numeros Impares - BEE1067.dll

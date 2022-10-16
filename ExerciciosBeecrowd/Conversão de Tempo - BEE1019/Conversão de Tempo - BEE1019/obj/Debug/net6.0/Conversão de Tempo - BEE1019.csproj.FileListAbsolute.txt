@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\obj\Debug\net6.0\Conversão de Tempo - BEE1019.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\obj\Debug\net6.0\Conversão de Tempo - BEE1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\obj\Debug\net6.0\Conversão de Tempo - BEE1019.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\obj\Debug\net6.0\Conversão de Tempo - BEE1019.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\obj\Debug\net6.0\Conversão de Tempo - BEE1019.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\bin\Debug\net6.0\Conversão de Tempo - BEE1019.exe
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\bin\Debug\net6.0\Conversão de Tempo - BEE1019.deps.json
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\bin\Debug\net6.0\Conversão de Tempo - BEE1019.runtimeconfig.json
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\bin\Debug\net6.0\Conversão de Tempo - BEE1019.dll
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\bin\Debug\net6.0\Conversão de Tempo - BEE1019.pdb
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\obj\Debug\net6.0\Conversão de Tempo - BEE1019.dll
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\obj\Debug\net6.0\refint\Conversão de Tempo - BEE1019.dll
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\obj\Debug\net6.0\Conversão de Tempo - BEE1019.pdb
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\obj\Debug\net6.0\Conversão de Tempo - BEE1019.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Conversão de Tempo - BEE1019\Conversão de Tempo - BEE1019\obj\Debug\net6.0\ref\Conversão de Tempo - BEE1019.dll

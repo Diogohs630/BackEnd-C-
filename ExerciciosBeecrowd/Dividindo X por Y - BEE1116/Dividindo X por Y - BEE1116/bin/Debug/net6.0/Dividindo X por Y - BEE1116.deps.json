@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dividindo X por Y - BEE1116/1.0.0": {
+        "runtime": {
+          "Dividindo X por Y - BEE1116.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dividindo X por Y - BEE1116/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

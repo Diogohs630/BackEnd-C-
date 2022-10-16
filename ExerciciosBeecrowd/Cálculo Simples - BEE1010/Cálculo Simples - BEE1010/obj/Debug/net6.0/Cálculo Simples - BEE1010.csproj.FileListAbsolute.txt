@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\bin\Debug\net6.0\Cálculo Simples - BEE1010.exe
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\bin\Debug\net6.0\Cálculo Simples - BEE1010.deps.json
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\bin\Debug\net6.0\Cálculo Simples - BEE1010.runtimeconfig.json
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\bin\Debug\net6.0\Cálculo Simples - BEE1010.dll
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\bin\Debug\net6.0\Cálculo Simples - BEE1010.pdb
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\obj\Debug\net6.0\Cálculo Simples - BEE1010.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\obj\Debug\net6.0\Cálculo Simples - BEE1010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\obj\Debug\net6.0\Cálculo Simples - BEE1010.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\obj\Debug\net6.0\Cálculo Simples - BEE1010.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\obj\Debug\net6.0\Cálculo Simples - BEE1010.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\obj\Debug\net6.0\Cálculo Simples - BEE1010.dll
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\obj\Debug\net6.0\refint\Cálculo Simples - BEE1010.dll
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\obj\Debug\net6.0\Cálculo Simples - BEE1010.pdb
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\obj\Debug\net6.0\Cálculo Simples - BEE1010.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Cálculo Simples - BEE1010\Cálculo Simples - BEE1010\obj\Debug\net6.0\ref\Cálculo Simples - BEE1010.dll

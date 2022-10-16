@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\bin\Debug\net6.0\FuncoesMat.exe
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\bin\Debug\net6.0\FuncoesMat.deps.json
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\bin\Debug\net6.0\FuncoesMat.runtimeconfig.json
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\bin\Debug\net6.0\FuncoesMat.dll
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\bin\Debug\net6.0\FuncoesMat.pdb
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\obj\Debug\net6.0\FuncoesMat.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\obj\Debug\net6.0\FuncoesMat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\obj\Debug\net6.0\FuncoesMat.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\obj\Debug\net6.0\FuncoesMat.AssemblyInfo.cs
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\obj\Debug\net6.0\FuncoesMat.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\obj\Debug\net6.0\FuncoesMat.dll
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\obj\Debug\net6.0\refint\FuncoesMat.dll
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\obj\Debug\net6.0\FuncoesMat.pdb
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\obj\Debug\net6.0\FuncoesMat.genruntimeconfig.cache
+C:\Temp\ws - vs2022\FuncoesMat\FuncoesMat\obj\Debug\net6.0\ref\FuncoesMat.dll

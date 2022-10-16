@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\bin\Debug\net6.0\Média 1 - BEE1005.exe
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\bin\Debug\net6.0\Média 1 - BEE1005.deps.json
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\bin\Debug\net6.0\Média 1 - BEE1005.runtimeconfig.json
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\bin\Debug\net6.0\Média 1 - BEE1005.dll
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\bin\Debug\net6.0\Média 1 - BEE1005.pdb
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\obj\Debug\net6.0\Média 1 - BEE1005.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\obj\Debug\net6.0\Média 1 - BEE1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\obj\Debug\net6.0\Média 1 - BEE1005.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\obj\Debug\net6.0\Média 1 - BEE1005.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\obj\Debug\net6.0\Média 1 - BEE1005.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\obj\Debug\net6.0\Média 1 - BEE1005.dll
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\obj\Debug\net6.0\refint\Média 1 - BEE1005.dll
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\obj\Debug\net6.0\Média 1 - BEE1005.pdb
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\obj\Debug\net6.0\Média 1 - BEE1005.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Média 1 - BEE1005\Média 1 - BEE1005\obj\Debug\net6.0\ref\Média 1 - BEE1005.dll

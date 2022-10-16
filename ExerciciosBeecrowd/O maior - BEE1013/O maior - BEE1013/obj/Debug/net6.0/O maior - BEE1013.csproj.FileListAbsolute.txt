@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\bin\Debug\net6.0\O maior - BEE1013.exe
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\bin\Debug\net6.0\O maior - BEE1013.deps.json
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\bin\Debug\net6.0\O maior - BEE1013.runtimeconfig.json
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\bin\Debug\net6.0\O maior - BEE1013.dll
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\bin\Debug\net6.0\O maior - BEE1013.pdb
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\obj\Debug\net6.0\O maior - BEE1013.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\obj\Debug\net6.0\O maior - BEE1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\obj\Debug\net6.0\O maior - BEE1013.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\obj\Debug\net6.0\O maior - BEE1013.AssemblyInfo.cs
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\obj\Debug\net6.0\O maior - BEE1013.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\obj\Debug\net6.0\O maior - BEE1013.dll
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\obj\Debug\net6.0\refint\O maior - BEE1013.dll
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\obj\Debug\net6.0\O maior - BEE1013.pdb
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\obj\Debug\net6.0\O maior - BEE1013.genruntimeconfig.cache
+C:\Temp\ws - vs2022\O maior - BEE1013\O maior - BEE1013\obj\Debug\net6.0\ref\O maior - BEE1013.dll

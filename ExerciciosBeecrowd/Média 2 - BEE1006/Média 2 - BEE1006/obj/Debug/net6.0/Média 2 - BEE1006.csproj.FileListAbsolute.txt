@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\bin\Debug\net6.0\Média 2 - BEE1006.exe
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\bin\Debug\net6.0\Média 2 - BEE1006.deps.json
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\bin\Debug\net6.0\Média 2 - BEE1006.runtimeconfig.json
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\bin\Debug\net6.0\Média 2 - BEE1006.dll
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\bin\Debug\net6.0\Média 2 - BEE1006.pdb
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\obj\Debug\net6.0\Média 2 - BEE1006.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\obj\Debug\net6.0\Média 2 - BEE1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\obj\Debug\net6.0\Média 2 - BEE1006.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\obj\Debug\net6.0\Média 2 - BEE1006.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\obj\Debug\net6.0\Média 2 - BEE1006.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\obj\Debug\net6.0\Média 2 - BEE1006.dll
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\obj\Debug\net6.0\refint\Média 2 - BEE1006.dll
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\obj\Debug\net6.0\Média 2 - BEE1006.pdb
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\obj\Debug\net6.0\Média 2 - BEE1006.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Média 2 - BEE1006\Média 2 - BEE1006\obj\Debug\net6.0\ref\Média 2 - BEE1006.dll

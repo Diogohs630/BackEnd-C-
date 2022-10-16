@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\bin\Debug\net6.0\Extremamente Básico - BEE1001.exe
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\bin\Debug\net6.0\Extremamente Básico - BEE1001.deps.json
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\bin\Debug\net6.0\Extremamente Básico - BEE1001.runtimeconfig.json
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\bin\Debug\net6.0\Extremamente Básico - BEE1001.dll
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\bin\Debug\net6.0\Extremamente Básico - BEE1001.pdb
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\obj\Debug\net6.0\Extremamente Básico - BEE1001.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\obj\Debug\net6.0\Extremamente Básico - BEE1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\obj\Debug\net6.0\Extremamente Básico - BEE1001.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\obj\Debug\net6.0\Extremamente Básico - BEE1001.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\obj\Debug\net6.0\Extremamente Básico - BEE1001.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\obj\Debug\net6.0\Extremamente Básico - BEE1001.dll
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\obj\Debug\net6.0\refint\Extremamente Básico - BEE1001.dll
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\obj\Debug\net6.0\Extremamente Básico - BEE1001.pdb
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\obj\Debug\net6.0\Extremamente Básico - BEE1001.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Extremamente Básico - BEE1001\Extremamente Básico - BEE1001\obj\Debug\net6.0\ref\Extremamente Básico - BEE1001.dll

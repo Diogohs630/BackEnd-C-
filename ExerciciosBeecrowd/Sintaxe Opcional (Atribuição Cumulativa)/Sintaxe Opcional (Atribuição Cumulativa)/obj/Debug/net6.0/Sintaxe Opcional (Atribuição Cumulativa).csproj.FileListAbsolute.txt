@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\bin\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).exe
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\bin\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).deps.json
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\bin\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).runtimeconfig.json
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\bin\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).dll
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\bin\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).pdb
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\obj\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\obj\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\obj\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\obj\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).AssemblyInfo.cs
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\obj\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\obj\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).dll
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\obj\Debug\net6.0\refint\Sintaxe Opcional (Atribuição Cumulativa).dll
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\obj\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).pdb
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\obj\Debug\net6.0\Sintaxe Opcional (Atribuição Cumulativa).genruntimeconfig.cache
+C:\Temp\ws - vs2022\Sintaxe Opcional (Atribuição Cumulativa)\Sintaxe Opcional (Atribuição Cumulativa)\obj\Debug\net6.0\ref\Sintaxe Opcional (Atribuição Cumulativa).dll

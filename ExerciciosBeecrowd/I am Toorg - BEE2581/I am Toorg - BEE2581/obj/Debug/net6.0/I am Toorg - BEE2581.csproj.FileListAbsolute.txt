@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\bin\Debug\net6.0\I am Toorg - BEE2581.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\bin\Debug\net6.0\I am Toorg - BEE2581.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\bin\Debug\net6.0\I am Toorg - BEE2581.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\bin\Debug\net6.0\I am Toorg - BEE2581.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\bin\Debug\net6.0\I am Toorg - BEE2581.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\obj\Debug\net6.0\I am Toorg - BEE2581.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\obj\Debug\net6.0\I am Toorg - BEE2581.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\obj\Debug\net6.0\I am Toorg - BEE2581.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\obj\Debug\net6.0\I am Toorg - BEE2581.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\obj\Debug\net6.0\I am Toorg - BEE2581.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\obj\Debug\net6.0\I am Toorg - BEE2581.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\obj\Debug\net6.0\refint\I am Toorg - BEE2581.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\obj\Debug\net6.0\I am Toorg - BEE2581.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\obj\Debug\net6.0\I am Toorg - BEE2581.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\I am Toorg - BEE2581\I am Toorg - BEE2581\obj\Debug\net6.0\ref\I am Toorg - BEE2581.dll

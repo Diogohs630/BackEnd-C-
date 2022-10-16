@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\bin\Debug\net6.0\Crescente e Decrescente - BEE1113.exe
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\bin\Debug\net6.0\Crescente e Decrescente - BEE1113.deps.json
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\bin\Debug\net6.0\Crescente e Decrescente - BEE1113.runtimeconfig.json
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\bin\Debug\net6.0\Crescente e Decrescente - BEE1113.dll
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\bin\Debug\net6.0\Crescente e Decrescente - BEE1113.pdb
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\obj\Debug\net6.0\Crescente e Decrescente - BEE1113.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\obj\Debug\net6.0\Crescente e Decrescente - BEE1113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\obj\Debug\net6.0\Crescente e Decrescente - BEE1113.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\obj\Debug\net6.0\Crescente e Decrescente - BEE1113.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\obj\Debug\net6.0\Crescente e Decrescente - BEE1113.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\obj\Debug\net6.0\Crescente e Decrescente - BEE1113.dll
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\obj\Debug\net6.0\refint\Crescente e Decrescente - BEE1113.dll
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\obj\Debug\net6.0\Crescente e Decrescente - BEE1113.pdb
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\obj\Debug\net6.0\Crescente e Decrescente - BEE1113.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Crescente e Decrescente - BEE1113\Crescente e Decrescente - BEE1113\obj\Debug\net6.0\ref\Crescente e Decrescente - BEE1113.dll

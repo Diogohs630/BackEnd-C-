@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\bin\Debug\net6.0\Validacao de nota - BEE1117.exe
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\bin\Debug\net6.0\Validacao de nota - BEE1117.deps.json
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\bin\Debug\net6.0\Validacao de nota - BEE1117.runtimeconfig.json
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\bin\Debug\net6.0\Validacao de nota - BEE1117.dll
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\bin\Debug\net6.0\Validacao de nota - BEE1117.pdb
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\obj\Debug\net6.0\Validacao de nota - BEE1117.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\obj\Debug\net6.0\Validacao de nota - BEE1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\obj\Debug\net6.0\Validacao de nota - BEE1117.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\obj\Debug\net6.0\Validacao de nota - BEE1117.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\obj\Debug\net6.0\Validacao de nota - BEE1117.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\obj\Debug\net6.0\Validacao de nota - BEE1117.dll
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\obj\Debug\net6.0\refint\Validacao de nota - BEE1117.dll
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\obj\Debug\net6.0\Validacao de nota - BEE1117.pdb
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\obj\Debug\net6.0\Validacao de nota - BEE1117.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Validacao de nota - BEE1117\Validacao de nota - BEE1117\obj\Debug\net6.0\ref\Validacao de nota - BEE1117.dll

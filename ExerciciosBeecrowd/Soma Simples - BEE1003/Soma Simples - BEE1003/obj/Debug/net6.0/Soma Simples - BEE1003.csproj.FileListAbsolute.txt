@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\bin\Debug\net6.0\Soma Simples - BEE1003.exe
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\bin\Debug\net6.0\Soma Simples - BEE1003.deps.json
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\bin\Debug\net6.0\Soma Simples - BEE1003.runtimeconfig.json
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\bin\Debug\net6.0\Soma Simples - BEE1003.dll
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\bin\Debug\net6.0\Soma Simples - BEE1003.pdb
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\obj\Debug\net6.0\Soma Simples - BEE1003.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\obj\Debug\net6.0\Soma Simples - BEE1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\obj\Debug\net6.0\Soma Simples - BEE1003.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\obj\Debug\net6.0\Soma Simples - BEE1003.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\obj\Debug\net6.0\Soma Simples - BEE1003.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\obj\Debug\net6.0\Soma Simples - BEE1003.dll
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\obj\Debug\net6.0\refint\Soma Simples - BEE1003.dll
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\obj\Debug\net6.0\Soma Simples - BEE1003.pdb
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\obj\Debug\net6.0\Soma Simples - BEE1003.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Soma Simples - BEE1003\Soma Simples - BEE1003\obj\Debug\net6.0\ref\Soma Simples - BEE1003.dll

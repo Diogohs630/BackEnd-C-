@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\bin\Debug\net6.0\Quadrado de Pares - BEE1073.exe
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\bin\Debug\net6.0\Quadrado de Pares - BEE1073.deps.json
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\bin\Debug\net6.0\Quadrado de Pares - BEE1073.runtimeconfig.json
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\bin\Debug\net6.0\Quadrado de Pares - BEE1073.dll
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\bin\Debug\net6.0\Quadrado de Pares - BEE1073.pdb
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\obj\Debug\net6.0\Quadrado de Pares - BEE1073.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\obj\Debug\net6.0\Quadrado de Pares - BEE1073.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\obj\Debug\net6.0\Quadrado de Pares - BEE1073.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\obj\Debug\net6.0\Quadrado de Pares - BEE1073.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\obj\Debug\net6.0\Quadrado de Pares - BEE1073.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\obj\Debug\net6.0\Quadrado de Pares - BEE1073.dll
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\obj\Debug\net6.0\refint\Quadrado de Pares - BEE1073.dll
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\obj\Debug\net6.0\Quadrado de Pares - BEE1073.pdb
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\obj\Debug\net6.0\Quadrado de Pares - BEE1073.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Quadrado de Pares - BEE1073\Quadrado de Pares - BEE1073\obj\Debug\net6.0\ref\Quadrado de Pares - BEE1073.dll

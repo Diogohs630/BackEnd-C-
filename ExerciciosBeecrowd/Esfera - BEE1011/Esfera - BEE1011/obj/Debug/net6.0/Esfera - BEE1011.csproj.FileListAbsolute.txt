@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\obj\Debug\net6.0\Esfera - BEE1011.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\obj\Debug\net6.0\Esfera - BEE1011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\obj\Debug\net6.0\Esfera - BEE1011.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\obj\Debug\net6.0\Esfera - BEE1011.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\obj\Debug\net6.0\Esfera - BEE1011.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\bin\Debug\net6.0\Esfera - BEE1011.exe
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\bin\Debug\net6.0\Esfera - BEE1011.deps.json
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\bin\Debug\net6.0\Esfera - BEE1011.runtimeconfig.json
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\bin\Debug\net6.0\Esfera - BEE1011.dll
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\bin\Debug\net6.0\Esfera - BEE1011.pdb
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\obj\Debug\net6.0\Esfera - BEE1011.dll
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\obj\Debug\net6.0\refint\Esfera - BEE1011.dll
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\obj\Debug\net6.0\Esfera - BEE1011.pdb
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\obj\Debug\net6.0\Esfera - BEE1011.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Esfera - BEE1011\Esfera - BEE1011\obj\Debug\net6.0\ref\Esfera - BEE1011.dll

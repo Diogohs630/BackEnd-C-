@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\bin\Debug\net6.0\Intervalo 2 - BEE1072.exe
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\bin\Debug\net6.0\Intervalo 2 - BEE1072.deps.json
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\bin\Debug\net6.0\Intervalo 2 - BEE1072.runtimeconfig.json
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\bin\Debug\net6.0\Intervalo 2 - BEE1072.dll
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\bin\Debug\net6.0\Intervalo 2 - BEE1072.pdb
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\obj\Debug\net6.0\Intervalo 2 - BEE1072.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\obj\Debug\net6.0\Intervalo 2 - BEE1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\obj\Debug\net6.0\Intervalo 2 - BEE1072.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\obj\Debug\net6.0\Intervalo 2 - BEE1072.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\obj\Debug\net6.0\Intervalo 2 - BEE1072.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\obj\Debug\net6.0\Intervalo 2 - BEE1072.dll
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\obj\Debug\net6.0\refint\Intervalo 2 - BEE1072.dll
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\obj\Debug\net6.0\Intervalo 2 - BEE1072.pdb
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\obj\Debug\net6.0\Intervalo 2 - BEE1072.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Intervalo 2 - BEE1072\Intervalo 2 - BEE1072\obj\Debug\net6.0\ref\Intervalo 2 - BEE1072.dll

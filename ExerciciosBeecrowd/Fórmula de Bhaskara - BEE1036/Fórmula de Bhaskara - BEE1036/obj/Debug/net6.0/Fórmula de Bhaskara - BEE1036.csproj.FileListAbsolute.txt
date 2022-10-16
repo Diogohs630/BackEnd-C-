@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\bin\Debug\net6.0\Fórmula de Bhaskara - BEE1036.exe
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\bin\Debug\net6.0\Fórmula de Bhaskara - BEE1036.deps.json
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\bin\Debug\net6.0\Fórmula de Bhaskara - BEE1036.runtimeconfig.json
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\bin\Debug\net6.0\Fórmula de Bhaskara - BEE1036.dll
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\bin\Debug\net6.0\Fórmula de Bhaskara - BEE1036.pdb
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\obj\Debug\net6.0\Fórmula de Bhaskara - BEE1036.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\obj\Debug\net6.0\Fórmula de Bhaskara - BEE1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\obj\Debug\net6.0\Fórmula de Bhaskara - BEE1036.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\obj\Debug\net6.0\Fórmula de Bhaskara - BEE1036.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\obj\Debug\net6.0\Fórmula de Bhaskara - BEE1036.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\obj\Debug\net6.0\Fórmula de Bhaskara - BEE1036.dll
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\obj\Debug\net6.0\refint\Fórmula de Bhaskara - BEE1036.dll
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\obj\Debug\net6.0\Fórmula de Bhaskara - BEE1036.pdb
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\obj\Debug\net6.0\Fórmula de Bhaskara - BEE1036.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Fórmula de Bhaskara - BEE1036\Fórmula de Bhaskara - BEE1036\obj\Debug\net6.0\ref\Fórmula de Bhaskara - BEE1036.dll

@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\obj\Debug\net6.0\Média 3 - BEE1040.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\obj\Debug\net6.0\Média 3 - BEE1040.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\obj\Debug\net6.0\Média 3 - BEE1040.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\obj\Debug\net6.0\Média 3 - BEE1040.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\obj\Debug\net6.0\Média 3 - BEE1040.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\bin\Debug\net6.0\Média 3 - BEE1040.exe
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\bin\Debug\net6.0\Média 3 - BEE1040.deps.json
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\bin\Debug\net6.0\Média 3 - BEE1040.runtimeconfig.json
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\bin\Debug\net6.0\Média 3 - BEE1040.dll
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\bin\Debug\net6.0\Média 3 - BEE1040.pdb
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\obj\Debug\net6.0\Média 3 - BEE1040.dll
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\obj\Debug\net6.0\refint\Média 3 - BEE1040.dll
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\obj\Debug\net6.0\Média 3 - BEE1040.pdb
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\obj\Debug\net6.0\Média 3 - BEE1040.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Média 3 - BEE1040\Média 3 - BEE1040\obj\Debug\net6.0\ref\Média 3 - BEE1040.dll

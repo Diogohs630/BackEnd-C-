@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\bin\Debug\net6.0\Distância - BEE1016.exe
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\bin\Debug\net6.0\Distância - BEE1016.deps.json
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\bin\Debug\net6.0\Distância - BEE1016.runtimeconfig.json
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\bin\Debug\net6.0\Distância - BEE1016.dll
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\bin\Debug\net6.0\Distância - BEE1016.pdb
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\obj\Debug\net6.0\Distância - BEE1016.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\obj\Debug\net6.0\Distância - BEE1016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\obj\Debug\net6.0\Distância - BEE1016.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\obj\Debug\net6.0\Distância - BEE1016.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\obj\Debug\net6.0\Distância - BEE1016.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\obj\Debug\net6.0\Distância - BEE1016.dll
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\obj\Debug\net6.0\refint\Distância - BEE1016.dll
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\obj\Debug\net6.0\Distância - BEE1016.pdb
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\obj\Debug\net6.0\Distância - BEE1016.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Distância - BEE1016\Distância - BEE1016\obj\Debug\net6.0\ref\Distância - BEE1016.dll

@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\bin\Debug\net6.0\Resto 2 - BEE1075.exe
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\bin\Debug\net6.0\Resto 2 - BEE1075.deps.json
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\bin\Debug\net6.0\Resto 2 - BEE1075.runtimeconfig.json
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\bin\Debug\net6.0\Resto 2 - BEE1075.dll
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\bin\Debug\net6.0\Resto 2 - BEE1075.pdb
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\obj\Debug\net6.0\Resto 2 - BEE1075.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\obj\Debug\net6.0\Resto 2 - BEE1075.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\obj\Debug\net6.0\Resto 2 - BEE1075.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\obj\Debug\net6.0\Resto 2 - BEE1075.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\obj\Debug\net6.0\Resto 2 - BEE1075.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\obj\Debug\net6.0\Resto 2 - BEE1075.dll
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\obj\Debug\net6.0\refint\Resto 2 - BEE1075.dll
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\obj\Debug\net6.0\Resto 2 - BEE1075.pdb
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\obj\Debug\net6.0\Resto 2 - BEE1075.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Resto 2 - BEE1075\Resto 2 - BEE1075\obj\Debug\net6.0\ref\Resto 2 - BEE1075.dll

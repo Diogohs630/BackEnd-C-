@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\bin\Debug\net6.0\Tempo de Jogo - BEE1046.exe
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\bin\Debug\net6.0\Tempo de Jogo - BEE1046.deps.json
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\bin\Debug\net6.0\Tempo de Jogo - BEE1046.runtimeconfig.json
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\bin\Debug\net6.0\Tempo de Jogo - BEE1046.dll
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\bin\Debug\net6.0\Tempo de Jogo - BEE1046.pdb
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\obj\Debug\net6.0\Tempo de Jogo - BEE1046.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\obj\Debug\net6.0\Tempo de Jogo - BEE1046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\obj\Debug\net6.0\Tempo de Jogo - BEE1046.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\obj\Debug\net6.0\Tempo de Jogo - BEE1046.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\obj\Debug\net6.0\Tempo de Jogo - BEE1046.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\obj\Debug\net6.0\Tempo de Jogo - BEE1046.dll
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\obj\Debug\net6.0\refint\Tempo de Jogo - BEE1046.dll
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\obj\Debug\net6.0\Tempo de Jogo - BEE1046.pdb
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\obj\Debug\net6.0\Tempo de Jogo - BEE1046.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Tempo de Jogo - BEE1046\Tempo de Jogo - BEE1046\obj\Debug\net6.0\ref\Tempo de Jogo - BEE1046.dll

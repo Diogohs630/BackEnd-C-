@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\bin\Debug\net6.0\Tipo de combustivel - BEE1134.exe
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\bin\Debug\net6.0\Tipo de combustivel - BEE1134.deps.json
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\bin\Debug\net6.0\Tipo de combustivel - BEE1134.runtimeconfig.json
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\bin\Debug\net6.0\Tipo de combustivel - BEE1134.dll
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\bin\Debug\net6.0\Tipo de combustivel - BEE1134.pdb
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\obj\Debug\net6.0\Tipo de combustivel - BEE1134.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\obj\Debug\net6.0\Tipo de combustivel - BEE1134.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\obj\Debug\net6.0\Tipo de combustivel - BEE1134.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\obj\Debug\net6.0\Tipo de combustivel - BEE1134.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\obj\Debug\net6.0\Tipo de combustivel - BEE1134.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\obj\Debug\net6.0\Tipo de combustivel - BEE1134.dll
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\obj\Debug\net6.0\refint\Tipo de combustivel - BEE1134.dll
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\obj\Debug\net6.0\Tipo de combustivel - BEE1134.pdb
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\obj\Debug\net6.0\Tipo de combustivel - BEE1134.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Tipo de combustivel - BEE1134\Tipo de combustivel - BEE1134\obj\Debug\net6.0\ref\Tipo de combustivel - BEE1134.dll

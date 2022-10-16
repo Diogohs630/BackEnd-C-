@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\bin\Debug\net6.0\Salário - BEE1008.exe
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\bin\Debug\net6.0\Salário - BEE1008.deps.json
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\bin\Debug\net6.0\Salário - BEE1008.runtimeconfig.json
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\bin\Debug\net6.0\Salário - BEE1008.dll
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\bin\Debug\net6.0\Salário - BEE1008.pdb
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\obj\Debug\net6.0\Salário - BEE1008.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\obj\Debug\net6.0\Salário - BEE1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\obj\Debug\net6.0\Salário - BEE1008.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\obj\Debug\net6.0\Salário - BEE1008.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\obj\Debug\net6.0\Salário - BEE1008.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\obj\Debug\net6.0\Salário - BEE1008.dll
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\obj\Debug\net6.0\refint\Salário - BEE1008.dll
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\obj\Debug\net6.0\Salário - BEE1008.pdb
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\obj\Debug\net6.0\Salário - BEE1008.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Salário - BEE1008\Salário - BEE1008\obj\Debug\net6.0\ref\Salário - BEE1008.dll

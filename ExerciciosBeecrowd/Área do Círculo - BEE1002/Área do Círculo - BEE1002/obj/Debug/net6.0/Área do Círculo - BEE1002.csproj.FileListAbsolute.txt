@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\bin\Debug\net6.0\Área do Círculo - BEE1002.exe
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\bin\Debug\net6.0\Área do Círculo - BEE1002.deps.json
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\bin\Debug\net6.0\Área do Círculo - BEE1002.runtimeconfig.json
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\bin\Debug\net6.0\Área do Círculo - BEE1002.dll
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\bin\Debug\net6.0\Área do Círculo - BEE1002.pdb
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\obj\Debug\net6.0\Área do Círculo - BEE1002.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\obj\Debug\net6.0\Área do Círculo - BEE1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\obj\Debug\net6.0\Área do Círculo - BEE1002.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\obj\Debug\net6.0\Área do Círculo - BEE1002.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\obj\Debug\net6.0\Área do Círculo - BEE1002.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\obj\Debug\net6.0\Área do Círculo - BEE1002.dll
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\obj\Debug\net6.0\refint\Área do Círculo - BEE1002.dll
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\obj\Debug\net6.0\Área do Círculo - BEE1002.pdb
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\obj\Debug\net6.0\Área do Círculo - BEE1002.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Área do Círculo - BEE1002\Área do Círculo - BEE1002\obj\Debug\net6.0\ref\Área do Círculo - BEE1002.dll

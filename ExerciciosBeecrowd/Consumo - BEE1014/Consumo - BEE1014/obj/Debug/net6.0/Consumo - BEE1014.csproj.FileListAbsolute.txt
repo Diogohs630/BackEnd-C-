@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\bin\Debug\net6.0\Consumo - BEE1014.exe
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\bin\Debug\net6.0\Consumo - BEE1014.deps.json
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\bin\Debug\net6.0\Consumo - BEE1014.runtimeconfig.json
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\bin\Debug\net6.0\Consumo - BEE1014.dll
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\bin\Debug\net6.0\Consumo - BEE1014.pdb
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\obj\Debug\net6.0\Consumo - BEE1014.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\obj\Debug\net6.0\Consumo - BEE1014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\obj\Debug\net6.0\Consumo - BEE1014.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\obj\Debug\net6.0\Consumo - BEE1014.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\obj\Debug\net6.0\Consumo - BEE1014.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\obj\Debug\net6.0\Consumo - BEE1014.dll
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\obj\Debug\net6.0\refint\Consumo - BEE1014.dll
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\obj\Debug\net6.0\Consumo - BEE1014.pdb
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\obj\Debug\net6.0\Consumo - BEE1014.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Consumo - BEE1014\Consumo - BEE1014\obj\Debug\net6.0\ref\Consumo - BEE1014.dll

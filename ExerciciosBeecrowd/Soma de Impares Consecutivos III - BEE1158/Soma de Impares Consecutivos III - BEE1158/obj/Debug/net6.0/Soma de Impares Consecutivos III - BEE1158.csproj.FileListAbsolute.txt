@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\bin\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.exe
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\bin\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.deps.json
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\bin\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.runtimeconfig.json
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\bin\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.dll
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\bin\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.pdb
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\obj\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\obj\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\obj\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\obj\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\obj\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\obj\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.dll
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\obj\Debug\net6.0\refint\Soma de Impares Consecutivos III - BEE1158.dll
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\obj\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.pdb
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\obj\Debug\net6.0\Soma de Impares Consecutivos III - BEE1158.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Soma de Impares Consecutivos III - BEE1158\Soma de Impares Consecutivos III - BEE1158\obj\Debug\net6.0\ref\Soma de Impares Consecutivos III - BEE1158.dll

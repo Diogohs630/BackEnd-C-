@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\bin\Debug\net6.0\Lanche - BEE1038.exe
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\bin\Debug\net6.0\Lanche - BEE1038.deps.json
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\bin\Debug\net6.0\Lanche - BEE1038.runtimeconfig.json
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\bin\Debug\net6.0\Lanche - BEE1038.dll
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\bin\Debug\net6.0\Lanche - BEE1038.pdb
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\obj\Debug\net6.0\Lanche - BEE1038.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\obj\Debug\net6.0\Lanche - BEE1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\obj\Debug\net6.0\Lanche - BEE1038.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\obj\Debug\net6.0\Lanche - BEE1038.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\obj\Debug\net6.0\Lanche - BEE1038.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\obj\Debug\net6.0\Lanche - BEE1038.dll
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\obj\Debug\net6.0\refint\Lanche - BEE1038.dll
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\obj\Debug\net6.0\Lanche - BEE1038.pdb
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\obj\Debug\net6.0\Lanche - BEE1038.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Lanche - BEE1038\Lanche - BEE1038\obj\Debug\net6.0\ref\Lanche - BEE1038.dll

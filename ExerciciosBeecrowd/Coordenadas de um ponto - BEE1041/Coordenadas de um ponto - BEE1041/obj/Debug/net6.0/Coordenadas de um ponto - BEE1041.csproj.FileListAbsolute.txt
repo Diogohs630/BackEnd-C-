@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\bin\Debug\net6.0\Coordenadas de um ponto - BEE1041.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\bin\Debug\net6.0\Coordenadas de um ponto - BEE1041.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\bin\Debug\net6.0\Coordenadas de um ponto - BEE1041.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\bin\Debug\net6.0\Coordenadas de um ponto - BEE1041.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\bin\Debug\net6.0\Coordenadas de um ponto - BEE1041.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\obj\Debug\net6.0\Coordenadas de um ponto - BEE1041.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\obj\Debug\net6.0\Coordenadas de um ponto - BEE1041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\obj\Debug\net6.0\Coordenadas de um ponto - BEE1041.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\obj\Debug\net6.0\Coordenadas de um ponto - BEE1041.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\obj\Debug\net6.0\Coordenadas de um ponto - BEE1041.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\obj\Debug\net6.0\Coordenadas de um ponto - BEE1041.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\obj\Debug\net6.0\refint\Coordenadas de um ponto - BEE1041.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\obj\Debug\net6.0\Coordenadas de um ponto - BEE1041.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\obj\Debug\net6.0\Coordenadas de um ponto - BEE1041.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\Coordenadas de um ponto - BEE1041\obj\Debug\net6.0\ref\Coordenadas de um ponto - BEE1041.dll

@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\bin\Debug\net6.0\Diferença - BEE1007.exe
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\bin\Debug\net6.0\Diferença - BEE1007.deps.json
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\bin\Debug\net6.0\Diferença - BEE1007.runtimeconfig.json
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\bin\Debug\net6.0\Diferença - BEE1007.dll
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\bin\Debug\net6.0\Diferença - BEE1007.pdb
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\obj\Debug\net6.0\Diferença - BEE1007.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\obj\Debug\net6.0\Diferença - BEE1007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\obj\Debug\net6.0\Diferença - BEE1007.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\obj\Debug\net6.0\Diferença - BEE1007.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\obj\Debug\net6.0\Diferença - BEE1007.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\obj\Debug\net6.0\Diferença - BEE1007.dll
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\obj\Debug\net6.0\refint\Diferença - BEE1007.dll
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\obj\Debug\net6.0\Diferença - BEE1007.pdb
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\obj\Debug\net6.0\Diferença - BEE1007.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Diferença - BEE1007\Diferença - BEE1007\obj\Debug\net6.0\ref\Diferença - BEE1007.dll

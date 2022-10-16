@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fórmula de Bhaskara - BEE1036/1.0.0": {
+        "runtime": {
+          "Fórmula de Bhaskara - BEE1036.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fórmula de Bhaskara - BEE1036/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

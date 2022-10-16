@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Switch case\Switch case\obj\Debug\net6.0\Switch case.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Switch case\Switch case\obj\Debug\net6.0\Switch case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Switch case\Switch case\obj\Debug\net6.0\Switch case.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Switch case\Switch case\obj\Debug\net6.0\Switch case.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Switch case\Switch case\obj\Debug\net6.0\Switch case.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Switch case\Switch case\bin\Debug\net6.0\Switch case.exe
+C:\Temp\ws - vs2022\Switch case\Switch case\bin\Debug\net6.0\Switch case.deps.json
+C:\Temp\ws - vs2022\Switch case\Switch case\bin\Debug\net6.0\Switch case.runtimeconfig.json
+C:\Temp\ws - vs2022\Switch case\Switch case\bin\Debug\net6.0\Switch case.dll
+C:\Temp\ws - vs2022\Switch case\Switch case\bin\Debug\net6.0\Switch case.pdb
+C:\Temp\ws - vs2022\Switch case\Switch case\obj\Debug\net6.0\Switch case.dll
+C:\Temp\ws - vs2022\Switch case\Switch case\obj\Debug\net6.0\refint\Switch case.dll
+C:\Temp\ws - vs2022\Switch case\Switch case\obj\Debug\net6.0\Switch case.pdb
+C:\Temp\ws - vs2022\Switch case\Switch case\obj\Debug\net6.0\Switch case.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Switch case\Switch case\obj\Debug\net6.0\ref\Switch case.dll

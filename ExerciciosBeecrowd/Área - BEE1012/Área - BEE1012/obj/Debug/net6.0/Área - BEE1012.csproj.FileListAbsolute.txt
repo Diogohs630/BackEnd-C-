@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\bin\Debug\net6.0\Área - BEE1012.exe
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\bin\Debug\net6.0\Área - BEE1012.deps.json
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\bin\Debug\net6.0\Área - BEE1012.runtimeconfig.json
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\bin\Debug\net6.0\Área - BEE1012.dll
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\bin\Debug\net6.0\Área - BEE1012.pdb
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\obj\Debug\net6.0\Área - BEE1012.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\obj\Debug\net6.0\Área - BEE1012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\obj\Debug\net6.0\Área - BEE1012.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\obj\Debug\net6.0\Área - BEE1012.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\obj\Debug\net6.0\Área - BEE1012.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\obj\Debug\net6.0\Área - BEE1012.dll
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\obj\Debug\net6.0\refint\Área - BEE1012.dll
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\obj\Debug\net6.0\Área - BEE1012.pdb
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\obj\Debug\net6.0\Área - BEE1012.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Área - BEE1012\Área - BEE1012\obj\Debug\net6.0\ref\Área - BEE1012.dll

@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\bin\Debug\net6.0\Gasto de Combustível - BEE1017.exe
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\bin\Debug\net6.0\Gasto de Combustível - BEE1017.deps.json
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\bin\Debug\net6.0\Gasto de Combustível - BEE1017.runtimeconfig.json
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\bin\Debug\net6.0\Gasto de Combustível - BEE1017.dll
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\bin\Debug\net6.0\Gasto de Combustível - BEE1017.pdb
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\obj\Debug\net6.0\Gasto de Combustível - BEE1017.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\obj\Debug\net6.0\Gasto de Combustível - BEE1017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\obj\Debug\net6.0\Gasto de Combustível - BEE1017.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\obj\Debug\net6.0\Gasto de Combustível - BEE1017.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\obj\Debug\net6.0\Gasto de Combustível - BEE1017.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\obj\Debug\net6.0\Gasto de Combustível - BEE1017.dll
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\obj\Debug\net6.0\refint\Gasto de Combustível - BEE1017.dll
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\obj\Debug\net6.0\Gasto de Combustível - BEE1017.pdb
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\obj\Debug\net6.0\Gasto de Combustível - BEE1017.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Gasto de Combustível - BEE1017\Gasto de Combustível - BEE1017\obj\Debug\net6.0\ref\Gasto de Combustível - BEE1017.dll
