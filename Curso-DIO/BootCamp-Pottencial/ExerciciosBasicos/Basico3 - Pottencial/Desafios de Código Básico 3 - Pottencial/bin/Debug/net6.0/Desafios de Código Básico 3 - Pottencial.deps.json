@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Desafios de Código Básico 3 - Pottencial/1.0.0": {
+        "runtime": {
+          "Desafios de Código Básico 3 - Pottencial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafios de Código Básico 3 - Pottencial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

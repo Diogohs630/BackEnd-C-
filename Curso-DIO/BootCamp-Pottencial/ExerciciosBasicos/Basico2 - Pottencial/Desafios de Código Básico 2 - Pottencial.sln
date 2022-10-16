@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios de Código Básico 2 - Pottencial", "Desafios de Código Básico 2 - Pottencial\Desafios de Código Básico 2 - Pottencial.csproj", "{0EDF77F9-01DE-45EF-BFF2-5076F99BD54C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EDF77F9-01DE-45EF-BFF2-5076F99BD54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDF77F9-01DE-45EF-BFF2-5076F99BD54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDF77F9-01DE-45EF-BFF2-5076F99BD54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDF77F9-01DE-45EF-BFF2-5076F99BD54C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E07D492-2BCA-4045-8862-D203A9AB4D4C}
+	EndGlobalSection
+EndGlobal

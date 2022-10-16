@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\bin\Debug\net6.0\IntermediarioPottencia 3.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\bin\Debug\net6.0\IntermediarioPottencia 3.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\bin\Debug\net6.0\IntermediarioPottencia 3.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\bin\Debug\net6.0\IntermediarioPottencia 3.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\bin\Debug\net6.0\IntermediarioPottencia 3.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\obj\Debug\net6.0\IntermediarioPottencia 3.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\obj\Debug\net6.0\IntermediarioPottencia 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\obj\Debug\net6.0\IntermediarioPottencia 3.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\obj\Debug\net6.0\IntermediarioPottencia 3.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\obj\Debug\net6.0\IntermediarioPottencia 3.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\obj\Debug\net6.0\IntermediarioPottencia 3.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\obj\Debug\net6.0\refint\IntermediarioPottencia 3.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\obj\Debug\net6.0\IntermediarioPottencia 3.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\obj\Debug\net6.0\IntermediarioPottencia 3.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencia 3\IntermediarioPottencia 3\obj\Debug\net6.0\ref\IntermediarioPottencia 3.dll

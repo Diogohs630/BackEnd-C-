@@ -1,0 +1,15 @@
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\bin\Debug\net6.0\IntermediarioPottencial 1.exe
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\bin\Debug\net6.0\IntermediarioPottencial 1.deps.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\bin\Debug\net6.0\IntermediarioPottencial 1.runtimeconfig.json
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\bin\Debug\net6.0\IntermediarioPottencial 1.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\bin\Debug\net6.0\IntermediarioPottencial 1.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\obj\Debug\net6.0\IntermediarioPottencial 1.csproj.AssemblyReference.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\obj\Debug\net6.0\IntermediarioPottencial 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\obj\Debug\net6.0\IntermediarioPottencial 1.AssemblyInfoInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\obj\Debug\net6.0\IntermediarioPottencial 1.AssemblyInfo.cs
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\obj\Debug\net6.0\IntermediarioPottencial 1.csproj.CoreCompileInputs.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\obj\Debug\net6.0\IntermediarioPottencial 1.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\obj\Debug\net6.0\refint\IntermediarioPottencial 1.dll
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\obj\Debug\net6.0\IntermediarioPottencial 1.pdb
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\obj\Debug\net6.0\IntermediarioPottencial 1.genruntimeconfig.cache
+C:\Temp\Exercicios C# Beecrowd\Cordenadas de um ponto - BEE1041\IntermediarioPottencial 1\IntermediarioPottencial 1\obj\Debug\net6.0\ref\IntermediarioPottencial 1.dll
