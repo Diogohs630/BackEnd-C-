@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\obj\Debug\net6.0\Exercicio Proposto While.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\obj\Debug\net6.0\Exercicio Proposto While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\obj\Debug\net6.0\Exercicio Proposto While.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\obj\Debug\net6.0\Exercicio Proposto While.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\obj\Debug\net6.0\Exercicio Proposto While.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\bin\Debug\net6.0\Exercicio Proposto While.exe
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\bin\Debug\net6.0\Exercicio Proposto While.deps.json
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\bin\Debug\net6.0\Exercicio Proposto While.runtimeconfig.json
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\bin\Debug\net6.0\Exercicio Proposto While.dll
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\bin\Debug\net6.0\Exercicio Proposto While.pdb
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\obj\Debug\net6.0\Exercicio Proposto While.dll
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\obj\Debug\net6.0\refint\Exercicio Proposto While.dll
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\obj\Debug\net6.0\Exercicio Proposto While.pdb
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\obj\Debug\net6.0\Exercicio Proposto While.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Exercicio Proposto While\Exercicio Proposto While\obj\Debug\net6.0\ref\Exercicio Proposto While.dll

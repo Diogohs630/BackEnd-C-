@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\bin\Debug\net6.0\Exemplo1 Vetor.exe
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\bin\Debug\net6.0\Exemplo1 Vetor.deps.json
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\bin\Debug\net6.0\Exemplo1 Vetor.runtimeconfig.json
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\bin\Debug\net6.0\Exemplo1 Vetor.dll
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\bin\Debug\net6.0\Exemplo1 Vetor.pdb
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\obj\Debug\net6.0\Exemplo1 Vetor.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\obj\Debug\net6.0\Exemplo1 Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\obj\Debug\net6.0\Exemplo1 Vetor.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\obj\Debug\net6.0\Exemplo1 Vetor.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\obj\Debug\net6.0\Exemplo1 Vetor.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\obj\Debug\net6.0\Exemplo1 Vetor.dll
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\obj\Debug\net6.0\refint\Exemplo1 Vetor.dll
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\obj\Debug\net6.0\Exemplo1 Vetor.pdb
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\obj\Debug\net6.0\Exemplo1 Vetor.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Exemplo1 Vetor\Exemplo1 Vetor\obj\Debug\net6.0\ref\Exemplo1 Vetor.dll

@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\bin\Debug\net6.0\Avaliacao 2.1.exe
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\bin\Debug\net6.0\Avaliacao 2.1.deps.json
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\bin\Debug\net6.0\Avaliacao 2.1.runtimeconfig.json
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\bin\Debug\net6.0\Avaliacao 2.1.dll
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\bin\Debug\net6.0\Avaliacao 2.1.pdb
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\obj\Debug\net6.0\Avaliacao 2.1.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\obj\Debug\net6.0\Avaliacao 2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\obj\Debug\net6.0\Avaliacao 2.1.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\obj\Debug\net6.0\Avaliacao 2.1.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\obj\Debug\net6.0\Avaliacao 2.1.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\obj\Debug\net6.0\Avaliacao 2.1.dll
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\obj\Debug\net6.0\refint\Avaliacao 2.1.dll
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\obj\Debug\net6.0\Avaliacao 2.1.pdb
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\obj\Debug\net6.0\Avaliacao 2.1.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Avaliacao 2.1\Avaliacao 2.1\obj\Debug\net6.0\ref\Avaliacao 2.1.dll

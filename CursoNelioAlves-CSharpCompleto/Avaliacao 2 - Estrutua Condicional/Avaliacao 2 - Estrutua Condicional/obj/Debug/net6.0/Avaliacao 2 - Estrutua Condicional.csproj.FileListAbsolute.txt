@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\obj\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\obj\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\obj\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\obj\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\obj\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\bin\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.exe
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\bin\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.deps.json
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\bin\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.runtimeconfig.json
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\bin\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.dll
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\bin\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.pdb
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\obj\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.dll
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\obj\Debug\net6.0\refint\Avaliacao 2 - Estrutua Condicional.dll
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\obj\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.pdb
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\obj\Debug\net6.0\Avaliacao 2 - Estrutua Condicional.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Avaliacao 2 - Estrutua Condicional\Avaliacao 2 - Estrutua Condicional\obj\Debug\net6.0\ref\Avaliacao 2 - Estrutua Condicional.dll

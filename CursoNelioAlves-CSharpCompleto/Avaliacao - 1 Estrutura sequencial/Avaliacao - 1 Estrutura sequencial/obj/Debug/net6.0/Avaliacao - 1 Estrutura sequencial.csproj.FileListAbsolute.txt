@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\bin\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.exe
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\bin\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.deps.json
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\bin\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.runtimeconfig.json
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\bin\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.dll
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\bin\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.pdb
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\obj\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\obj\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\obj\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\obj\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\obj\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\obj\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.dll
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\obj\Debug\net6.0\refint\Avaliacao - 1 Estrutura sequencial.dll
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\obj\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.pdb
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\obj\Debug\net6.0\Avaliacao - 1 Estrutura sequencial.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Avaliacao - 1 Estrutura sequencial\Avaliacao - 1 Estrutura sequencial\obj\Debug\net6.0\ref\Avaliacao - 1 Estrutura sequencial.dll

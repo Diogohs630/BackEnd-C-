@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\bin\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.exe
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\bin\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.deps.json
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\bin\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.runtimeconfig.json
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\bin\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.dll
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\bin\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.pdb
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\obj\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\obj\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\obj\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\obj\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\obj\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\obj\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.dll
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\obj\Debug\net6.0\refint\Avaliacao 3 - Estrutura Repetitiva.dll
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\obj\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.pdb
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\obj\Debug\net6.0\Avaliacao 3 - Estrutura Repetitiva.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Avaliacao 3 - Estrutura Repetitiva\Avaliacao 3 - Estrutura Repetitiva\obj\Debug\net6.0\ref\Avaliacao 3 - Estrutura Repetitiva.dll

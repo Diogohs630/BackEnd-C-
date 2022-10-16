@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\bin\Debug\net6.0\Exercicio Proposto 5 - Vetores.exe
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\bin\Debug\net6.0\Exercicio Proposto 5 - Vetores.deps.json
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\bin\Debug\net6.0\Exercicio Proposto 5 - Vetores.runtimeconfig.json
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\bin\Debug\net6.0\Exercicio Proposto 5 - Vetores.dll
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\bin\Debug\net6.0\Exercicio Proposto 5 - Vetores.pdb
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\obj\Debug\net6.0\Exercicio Proposto 5 - Vetores.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\obj\Debug\net6.0\Exercicio Proposto 5 - Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\obj\Debug\net6.0\Exercicio Proposto 5 - Vetores.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\obj\Debug\net6.0\Exercicio Proposto 5 - Vetores.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\obj\Debug\net6.0\Exercicio Proposto 5 - Vetores.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\obj\Debug\net6.0\Exercicio Proposto 5 - Vetores.dll
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\obj\Debug\net6.0\refint\Exercicio Proposto 5 - Vetores.dll
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\obj\Debug\net6.0\Exercicio Proposto 5 - Vetores.pdb
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\obj\Debug\net6.0\Exercicio Proposto 5 - Vetores.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Exercicio Proposto 5 - Vetores\Exercicio Proposto 5 - Vetores\obj\Debug\net6.0\ref\Exercicio Proposto 5 - Vetores.dll

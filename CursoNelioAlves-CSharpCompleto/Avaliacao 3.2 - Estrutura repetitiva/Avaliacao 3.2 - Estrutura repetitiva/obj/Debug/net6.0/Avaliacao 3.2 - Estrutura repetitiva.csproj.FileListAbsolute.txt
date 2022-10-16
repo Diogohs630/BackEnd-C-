@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\obj\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\obj\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\obj\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\obj\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\obj\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\bin\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.exe
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\bin\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.deps.json
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\bin\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.runtimeconfig.json
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\bin\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.dll
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\bin\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.pdb
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\obj\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.dll
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\obj\Debug\net6.0\refint\Avaliacao 3.2 - Estrutura repetitiva.dll
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\obj\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.pdb
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\obj\Debug\net6.0\Avaliacao 3.2 - Estrutura repetitiva.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Avaliacao 3.2 - Estrutura repetitiva\Avaliacao 3.2 - Estrutura repetitiva\obj\Debug\net6.0\ref\Avaliacao 3.2 - Estrutura repetitiva.dll

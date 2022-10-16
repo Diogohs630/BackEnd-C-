@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Avaliacao 2 - Estrutua Condicional/1.0.0": {
+        "runtime": {
+          "Avaliacao 2 - Estrutua Condicional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avaliacao 2 - Estrutua Condicional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

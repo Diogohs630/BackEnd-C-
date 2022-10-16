@@ -1,0 +1,15 @@
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\obj\Debug\net6.0\Estrutura Repeticao - Enquanto.csproj.AssemblyReference.cache
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\obj\Debug\net6.0\Estrutura Repeticao - Enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\obj\Debug\net6.0\Estrutura Repeticao - Enquanto.AssemblyInfoInputs.cache
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\obj\Debug\net6.0\Estrutura Repeticao - Enquanto.AssemblyInfo.cs
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\obj\Debug\net6.0\Estrutura Repeticao - Enquanto.csproj.CoreCompileInputs.cache
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\bin\Debug\net6.0\Estrutura Repeticao - Enquanto.exe
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\bin\Debug\net6.0\Estrutura Repeticao - Enquanto.deps.json
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\bin\Debug\net6.0\Estrutura Repeticao - Enquanto.runtimeconfig.json
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\bin\Debug\net6.0\Estrutura Repeticao - Enquanto.dll
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\bin\Debug\net6.0\Estrutura Repeticao - Enquanto.pdb
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\obj\Debug\net6.0\Estrutura Repeticao - Enquanto.dll
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\obj\Debug\net6.0\refint\Estrutura Repeticao - Enquanto.dll
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\obj\Debug\net6.0\Estrutura Repeticao - Enquanto.pdb
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\obj\Debug\net6.0\Estrutura Repeticao - Enquanto.genruntimeconfig.cache
+C:\Temp\ws - vs2022\Estrutura Repeticao - Enquanto\Estrutura Repeticao - Enquanto\obj\Debug\net6.0\ref\Estrutura Repeticao - Enquanto.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio Proposto - Repeticao Enquanto", "Exercicio Proposto - Repeticao Enquanto\Exercicio Proposto - Repeticao Enquanto.csproj", "{BAA8D906-CB99-47A4-9706-6427A373239A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA8D906-CB99-47A4-9706-6427A373239A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA8D906-CB99-47A4-9706-6427A373239A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA8D906-CB99-47A4-9706-6427A373239A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA8D906-CB99-47A4-9706-6427A373239A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86AFDCB1-D0DD-4D54-8A60-013A84B34DE6}
+	EndGlobalSection
+EndGlobal
